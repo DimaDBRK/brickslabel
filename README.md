@@ -64,10 +64,10 @@ pyinstaller app.spec
 The executable will be created in the dist directory.
 
 ## Summary
-Download and Install: Python and VS Code.
-Clone the Repo: Using Git.
-Set Up Virtual Environment: python -m venv venv, activate, and install dependencies.
-Run the App: python app.py.
-Build Executable: Using PyInstaller with app.spec.
+- Download and Install: Python and VS Code.
+- Clone the Repo: Using Git.
+- Set Up Virtual Environment: python -m venv venv, activate, and install dependencies.
+- Run the App: python app.py.
+- Build Executable: Using PyInstaller with app.spec.
 
 
